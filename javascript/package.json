@@ -1,0 +1,10 @@
+{
+  "name": "museo-javascript",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Modelo del museo (POO) alineado con python/museo.py",
+  "scripts": {
+    "start": "node src/museo/museoDemo.js"
+  }
+}
