@@ -1,0 +1,12 @@
+bin/
+obj/
+*.user
+*.suo
+.vs/
+.vscode/
+.idea/
+[Dd]ebug/
+[Rr]elease/
+TestResults/
+estudiantes.json
+data/

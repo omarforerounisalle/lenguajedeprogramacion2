@@ -1,0 +1,2 @@
+# El proyecto usa únicamente la librería estándar de Python 3.10+.
+# Tkinter, unittest, json, dataclasses, typing, logging y pathlib vienen incluidos.

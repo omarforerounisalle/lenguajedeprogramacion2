@@ -1,0 +1,11 @@
+{
+  "name": "museo-javascript",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Modelo Museo y TeleVentas (POO, ES modules)",
+  "scripts": {
+    "start": "node src/museo/museoDemo.js",
+    "televentas": "node src/televentas/teleVentasDemo.js"
+  }
+}
