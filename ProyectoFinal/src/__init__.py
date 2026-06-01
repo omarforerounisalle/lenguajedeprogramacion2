@@ -1,0 +1,1 @@
+"""Sistema Académico - paquete raíz."""
